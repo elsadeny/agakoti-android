@@ -3,5 +3,6 @@
   "versionCode":"1000000",
   "versionName":"1.0.0-beta",
   "domain":"https://www.agakoti.com",
-  "channel":"beta"
+  "channel":"beta",
+  "publish-url":"https://www.agakoti.com/#downloads/agakoti-android.apk"
 }
