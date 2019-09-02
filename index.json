@@ -1,7 +1,7 @@
 { 
   "build-number":"4865",
-  "versionCode":"1000000",
-  "versionName":"1.0.0-beta",
+  "versionCode":"1000010",
+  "versionName":"1.0.0-beta-1",
   "domainURL":"https://www.agakoti.com",
   "channel":"beta",
   "publishURL":"https://github.com/elsadeny/agakoti-android/releases/download/1000010/mobile-universal-release.apk"
